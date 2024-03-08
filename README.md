@@ -1,4 +1,2 @@
 # chatApp
-void main(){
-print('hello world);
-}
+<h1> hello </h2>
